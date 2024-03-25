@@ -45,8 +45,8 @@ output_file_path = "C:\\Users\\Pedro\\Documents\\GitHub\\crypto_1\\test_decrypt.
 encryption_key = b'mysecretpassword'  # Example key (must be 16, 24, or 32 bytes long)
 
 with open("C:\\Users\\Pedro\\Documents\\GitHub\\crypto_1\\cipher_file", 'rb')as c_file:
-    iv = c_file.read()
-
+    iv = c_file.read(16)
+    encryption_key = c_file.read()
 # Create an AES cipher object with the provided key
 cipher = AES.new(encryption_key, AES.MODE_CBC, iv)
 

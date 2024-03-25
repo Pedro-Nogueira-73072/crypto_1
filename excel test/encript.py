@@ -52,6 +52,7 @@ encryption_key = b'mysecretpassword'  # Example key (must be 16, 24, or 32 bytes
 cipher = AES.new(encryption_key, AES.MODE_CBC)
 with open('cipher_file', 'wb')as c_file:
     c_file.write(cipher.iv)
+    c_file.write(encryption_key)
 
 encrypt_excel_file(input_file_path, output_file_path, cipher)
 
