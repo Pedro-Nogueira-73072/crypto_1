@@ -72,5 +72,10 @@ def decrypt_excel_file(input_file_path, cipher_file_path):
 input_file_path = "C:\\Users\\Pedro\\Documents\\GitHub\\crypto_1\\test.xls"
 cipher_file_path = "C:\\Users\\Pedro\\Documents\\GitHub\\crypto_1\\cipher_file"
 
+
+directory_path, file_name_with_extension = os.path.split(input_file_path)
+cipher_directory = directory_path + "\\" + "cipher_file"
+print(cipher_directory)
+
 #encrypt_excel_file(input_file_path)
-decrypt_excel_file(input_file_path, cipher_file_path)
+#decrypt_excel_file(input_file_path, cipher_file_path)

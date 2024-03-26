@@ -1,0 +1,17 @@
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\bin\Debug\net8.0\cripto_1.exe
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\bin\Debug\net8.0\cripto_1.deps.json
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\bin\Debug\net8.0\cripto_1.runtimeconfig.json
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\bin\Debug\net8.0\cripto_1.dll
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\bin\Debug\net8.0\cripto_1.pdb
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\bin\Debug\net8.0\Python.Runtime.dll
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.AssemblyInfo.cs
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.csproj.Up2Date
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.dll
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\refint\cripto_1.dll
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.pdb
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\cripto_1.genruntimeconfig.cache
+C:\Users\Pedro\Documents\Visual Studio 2022\Projects\Cripto\cripto_1\obj\Debug\net8.0\ref\cripto_1.dll
